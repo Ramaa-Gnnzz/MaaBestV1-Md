@@ -1,17 +1,17 @@
 ## SCRIPT BY RAMAA GNNZ
-Record : Ramaa gnnz
-author : Lexxy ofc
+-Record : Ramaa gnnz
+-author : Lexxy ofc
 
 ## THANKS TO
-   •Allah Swt
-   •Ortu
-   •Ramaa gnnz (Creator)
-   •Lexxy Ofc (Penyedia Base)
-   •Zeeone Ofc (Penyedia apikey)
-   •Nata gnz (Penyedia Apikey)
-   •Ronzz YT (Support)
-   •${setting.ownerName}
-   •And My Subscriber 
+-   •Allah Swt
+-   •Ortu
+-   •Ramaa gnnz (Creator)
+-   •Lexxy Ofc (Penyedia Base)
+-   •Zeeone Ofc (Penyedia apikey)
+-  •Nata gnz (Penyedia Apikey)
+-  •Ronzz YT (Support)
+-  •${setting.ownerName}
+-  •And My Subscriber 
 
 ---
 
@@ -33,20 +33,20 @@ Scrip MaaBest-MdV1 Menggunakan Base dari Lexxy official kemudian dikembalikan ol
 </p>
 
 ## Command Termux
-$ pkg update && pkg upgrade
-$ pkg install nodejs
-$ pkg install ffmpeg 
-$ pkg install libwebp 
-$ pkg install imagemagick 
-$ pkg install benang
-$ termux-setup-storage
-$ cd /sdcard
-$ cd (Nama File)
-$ npm install 
-$npm start
+-$ pkg update && pkg upgrade
+-$ pkg install nodejs
+-$ pkg install ffmpeg 
+-$ pkg install libwebp 
+-$ pkg install imagemagick 
+-$ pkg install benang
+-$ termux-setup-storage
+-$ cd /sdcard
+-$ cd (Nama File)
+-$ npm install 
+-$npm start
 
-Jika ada Yang Eror Lagu Chat 👇
-WhatsApp: https://wa.me/6285791220179
+-Jika ada Yang Eror Lagu Chat 👇
+-WhatsApp: https://wa.me/6285791220179
 
 ## Heroku Buildpack
 ```bash
