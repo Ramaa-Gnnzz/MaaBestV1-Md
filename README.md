@@ -1,6 +1,6 @@
 ## SCRIPT BY RAMAA GNNZ
--Record : Ramaa gnnz
--author : Lexxy ofc
+-  Record : Ramaa gnnz
+-  author : Lexxy ofc
 
 ## THANKS TO
 -   •Allah Swt
@@ -8,10 +8,10 @@
 -   •Ramaa gnnz (Creator)
 -   •Lexxy Ofc (Penyedia Base)
 -   •Zeeone Ofc (Penyedia apikey)
--  •Nata gnz (Penyedia Apikey)
--  •Ronzz YT (Support)
--  •${setting.ownerName}
--  •And My Subscriber 
+-   •Nata gnz (Penyedia Apikey)
+-   •Ronzz YT (Support)
+-   •${setting.ownerName}
+-   •And My Subscriber 
 
 ---
 
@@ -33,20 +33,20 @@ Scrip MaaBest-MdV1 Menggunakan Base dari Lexxy official kemudian dikembalikan ol
 </p>
 
 ## Command Termux
--$ pkg update && pkg upgrade
--$ pkg install nodejs
--$ pkg install ffmpeg 
--$ pkg install libwebp 
--$ pkg install imagemagick 
--$ pkg install benang
--$ termux-setup-storage
--$ cd /sdcard
--$ cd (Nama File)
--$ npm install 
--$npm start
+-  $ pkg update && pkg upgrade
+-  $ pkg install nodejs
+-  $ pkg install ffmpeg 
+-  $ pkg install libwebp 
+-  $ pkg install imagemagick 
+-  $ pkg install benang
+-  $ termux-setup-storage
+-  $ cd /sdcard
+-  $ cd (Nama File)
+-  $ npm install 
+-  $npm start
 
--Jika ada Yang Eror Lagu Chat 👇
--WhatsApp: https://wa.me/6285791220179
+-  Jika ada Yang Eror Lagu Chat 👇
+-  WhatsApp: https://wa.me/6285791220179
 
 ## Heroku Buildpack
 ```bash
@@ -62,7 +62,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 Terimakasih yang sudah donasi 🙏.
 
 # Official Group
-<a href="https://chat.whatsapp.com/JYjwm7vfjdB69FrnyuwoEF"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/JYjwm7vfjdB69FrnyuwoEF"><img src="https://img.shields.io/badge/Toko Ramaa Ofc-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
