@@ -1,0 +1,14 @@
+{
+    "wait": "```Loading..⌛```\n𝐷𝑎𝑡𝑎 𝑠𝑒𝑑𝑎𝑛𝑔 𝐷𝑖𝑝𝑟𝑜𝑠𝑒𝑠",
+    "error": {
+        "Iv": "Link yang Kamu Berikan Tidak Valid❌𝙴𝚛𝚘𝚛.",
+        "api": "Maaf terjadi kesalahan❌\n𝙴𝚛𝚘𝚛."
+    },
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup🫂\n𝑶𝒏𝒍𝒚 𝑮𝒓𝒐𝒖𝒑",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private👤\n𝑶𝒏𝒍𝒚 𝑷𝒓𝒊𝒗𝒂𝒕𝒆",
+    "GrupAdmin": "```Fitur ini khusus admin🤴```\n𝑶𝒏𝒍𝒚 𝑨𝒅𝒎𝒊𝒏",
+    "BotAdmin": "```Bot Harus menjadi Admin Untuk Menggunakan fitur admin```",
+    "OnlyOwner": "Mau ngapain?, Fitur ini khusus Owner",
+    "OnlyPrem": "Perintah ini khusus member premium\nMinat jadi premium? hubungi owner",
+    "OnlyUser": "```Hallo Kak👋\nKamu belum terdaftar di database Bot\nSilahkan Pencet button untuk memverifikasi🍁```"
+}
