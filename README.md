@@ -18,6 +18,10 @@
 ## Informasi
 Scrip MaaBest-MdV1 Menggunakan Base dari Lexxy official kemudian dikembalikan oleh Ramaa Gnnz
 
+## WARNING
+Dilarang Menjual script⚠️.
+Jika Menjual script ini, Maka saya akan menghapus script bot Ini
+
 ## YouTube Ramaa
 - [Link yt](https://youtube.com/@ramaagnnz961?si=EnSIkaIECMiOmarE)
 
