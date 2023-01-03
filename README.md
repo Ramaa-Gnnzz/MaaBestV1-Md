@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://youtu.be/bzBEPxql85s"><img src="https://telegra.ph/file/840e517d220ec286f5816.jpg" />
+</p>
+
+
 ## SCRIPT BY RAMAA GNNZ
 -  Record : Ramaa gnnz
 -  author : Lexxy ofc
